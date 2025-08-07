@@ -10,6 +10,7 @@ public class Array {
 		mrk [0] = 1;
 		mrk [1] = 2;
 		mrk [2] = 3;
+		mrk [3] = 4;
 		
 		System.out.println(mrk[0]);
 		System.out.println(mrk[1]);
@@ -27,6 +28,7 @@ public class Array {
 		String[] sk = {"Salman","khan"};
 		System.out.println(sk[0]+" "+sk[1]);
 		System.out.println(sk.length);
+		
 		
 	}
 }

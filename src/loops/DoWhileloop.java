@@ -4,14 +4,14 @@ public class DoWhileloop {
 
 	public static void main(String[] args) {
 		//do while loop runs atleast once, even if the condition is false
-		int a = 1;
+		int a = 5;
 		do {
 			System.out.println(a);
 			a++ ;
 		}
 		while (a <= 5);
         
-		//while loop
+		//while loop for false
 		int b = 10;
 		while(b <= 5) {
 			System.out.println(b);
