@@ -35,5 +35,7 @@ public class DurgaArray {
 		
 		String[] lk= {"s","f","i"};
 		System.out.println(Arrays.toString(lk));
+		int q=10;
+		System.out.println(q);
 		
 	}}

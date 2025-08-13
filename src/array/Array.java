@@ -29,6 +29,32 @@ public class Array {
 		System.out.println(sk[0]+" "+sk[1]);
 		System.out.println(sk.length);
 		
+		int [] p= {2,3,4,5,7};
+		int [] x=p;
+		System.out.println(x[1]);
+		
+		char a='s';
+		int cx=a;
+		System.out.println(cx);
+		
+		
+		for( int i=0; i<=args.length; i++){
+			
+			System.out.println(args[i]);	
+			
+		}
+for( int i=0; i<=3;i++){
+			
+			System.out.println(i);	
+			
+			String[] argh= {"a","b","c"};
+			args= argh;
+	           for(String s: args ){
+	        	   
+	        	   System.out.println(s);
+	           }
+			
+		}
 		
 	}
 }
