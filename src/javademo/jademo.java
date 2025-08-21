@@ -42,6 +42,24 @@ public class jademo {
 	System.out.println("the length" +k.length);
 	{
 	}
+int qw=1;
+while (qw<=13){
+	System.out.println(qw);
+	qw++;
+	
+}
+int a = 5;
+do {
+	System.out.println(a);
+	a++ ;
+}
+while (a <= 5);
+
+final int shab=45,khan=48;
+for (int i=0;shab <khan;i++) {
+	System.out.println("hello");
+	System.out.println("sir");
+}
 
 }}
 

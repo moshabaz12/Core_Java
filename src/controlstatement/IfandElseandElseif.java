@@ -56,12 +56,23 @@ public class IfandElseandElseif {
 				System.out.println("lrfdhbueffvu");
 				
 		
-	}
+				
+				
+				boolean a=true;
+				if(a=false){
+					System.out.println("hello");
+				}else {
+				System.out.println("sir");
+			
+				}}}
+		
+			
+		
+	}}
 		
 		
-		}
-
-}}
+		
+		
 
 
 /*

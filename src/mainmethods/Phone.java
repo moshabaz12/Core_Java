@@ -1,9 +1,9 @@
 package mainmethods;
 
-public class Main {
+public class Phone {
 	
 	// without parameter
-	static void name() {
+	 static void name() {
 		int a = 10;
 		System.out.println(a);
 	}
@@ -20,10 +20,22 @@ public class Main {
 		return z;
 	}
 	
+	static void main() {
+		int sd=12;
+		System.out.println(sd);
+		
+		
+	}
+	static void sello() {
+		String sa="khana";
+		System.out.println(sa);
+		
+	}
 	
 	public static void main(String[]args) {
 		
 		name();
+		sello();
 		
 		String frog = cash();
 		System.out.println(frog);
@@ -57,9 +69,26 @@ public class Main {
 		System.out.println(we+sed);
 		
 		
+		
+		
+		
+		//if (b);
+		{
+		System.out.println("this a ");
+			
+		}
+		//else {
+			System.out.println("gello");
+		}
+		
+		
 	}
+
+	
+	
+
 
 		
 		
 	
-}
+

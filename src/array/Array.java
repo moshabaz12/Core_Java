@@ -1,5 +1,4 @@
 package array;
-
 public class Array {
 
 	public static void main(String[] args) {
@@ -55,9 +54,17 @@ for( int i=0; i<=3;i++){
 	           }
 			
 		}
+//print of 1 daimentional array
+int[] pq = {10, 20, 30, 40, 78};
+for (int pq2 : pq) {   // ✅ abhi pq array ka naam sahi use kiya
+    System.out.println(pq2);
+}
+
+		}
+			
 		
 	}
-}
+
 
  /*
  array are used to store multiple value in a single variable  /  array is collection of similar type of data store into contagious memory location
