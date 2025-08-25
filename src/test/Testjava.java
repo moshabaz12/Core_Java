@@ -5,11 +5,12 @@ interface claint{
 	 void input();//public+abstract
      void output();//public+abstract
 }
-public  class  Testjava implements claint {
+
+
+public   class  Testjava implements claint {
 
 String name;int sal;
-   public  void input() {
-}
+   public  void input() {}
 {
 	Scanner r=new Scanner(System.in);
 	System.out.println("enter the name:");
