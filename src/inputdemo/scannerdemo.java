@@ -10,8 +10,9 @@ public class scannerdemo {
 		System.out.println("value is"+ a);
 
 		
-				
+		
 
 	}
+			
 
 }
