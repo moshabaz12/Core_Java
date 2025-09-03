@@ -12,7 +12,8 @@ public class Textin {
 		// TODO Auto-generated method stub
 		Textin  jumbo = new Textin();
 		jumbo.run("lion",+ 14);
-		jumbo.eat("buzo");
+		jumbo.eat("buzo");		
+					
 		Textin Any = new  Textin();
 		Any.lion("Lion",+3000);
 	}
