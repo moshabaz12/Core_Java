@@ -34,7 +34,7 @@ class Acccount {
 public class BankApp {
     public static void main(String[] args) {
         Acccount acccount = new Acccount();
-
+      
         acccount.setaccountHolde("murshid");
         acccount.deposit(1000);
         acccount.withdraw(500);

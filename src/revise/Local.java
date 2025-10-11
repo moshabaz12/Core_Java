@@ -11,6 +11,7 @@ public class Local {
 		Local h1= new Local();
 		h1.show();
 		
+		System.out.println("16");
 	}
 
 }
